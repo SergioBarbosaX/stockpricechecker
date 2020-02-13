@@ -1,0 +1,14 @@
+header {
+  text-align: center;
+}
+
+#test-ui {
+  padding: 20px;
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+footer { 
+  text-align: center;
+}
